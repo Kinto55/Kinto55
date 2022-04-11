@@ -1,13 +1,8 @@
 ### Hi fellow associates, here is my progress as a engineering undergraduate👋
 
-<!--
-**Kinto55/Kinto55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on certifications from Goole to encahnce my capabilities in cybersecurity🖥 ,analytics📊, cloud computing🌩 & programming
-- 🌱 I’m currently learning cybersecuity & cloud computing
-- 🤔 I’m looking for help with furthering my capabilites in cloud computing & other programming languages beyond JAVA
+- 🔭 I’m currently pursing certifications from Google to enhance my capabilities in cybersecurity🖥 ,analytics📊, cloud computing🌩 &/ or programming languages.
+- 🌱 I’m attempting to obtain skills in cybersecuity & cloud computing
+- 🤔 I’m seeking help with furthering my capabilites in cloud computing & other programming languages beyond JAVA
 - 💬 Ask me about technological conversations👨🏾‍💻
 - 📫 How to reach me:
        Email: markintusm10@gmail.com 
