@@ -25,3 +25,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kinto55&icon=0&color=9)](https://visitcount.itsvg.in)
+
+[![](https://visitcount.itsvg.in/api?id=markaysthename1&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
