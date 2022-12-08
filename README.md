@@ -1,7 +1,7 @@
 <div align="center">
 <img width="100%" height = "250px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner1.gif" alt="cover" />
 </div>
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
+<h1> Hello Fellow < Tech Gurus / >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
 # 💫 About Me:
 🛠 I’m currently pursing certifications from Google to enhance my capabilities in cybersecurity🖥 ,analytics📊, cloud computing🌩 &/ or programming languages.<br><br>🌱 I’m attempting to obtain skills in AWS Architecture & Data Architecture <br><br>🤔 I’m seeking help with furthering my capabilities in cloud computing & other programming languages beyond JAVA<br><br>💬 Ask me about technological conversations👨🏾‍💻<br><br>📫 How to reach me: Email: markintusm10@gmail.com LinkedIn: www.linkedin.com/in/markintus-morris-b62681204<br><br>⚡ Fun fact: I am diagnoses Sickle Cell Beta Thalassemia & I have been battling this disease all of my life.>
